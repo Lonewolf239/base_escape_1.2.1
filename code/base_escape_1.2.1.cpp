@@ -14,7 +14,7 @@ int main(int c) {
 		cout << "IIIIII  NN  NN\n  II    NNN NN\n  II    NN NNN\n  II    NN  NN\nIIIIII  NN  NN" << endl << endl;
 		cout << "BBBBB    AAAA    SSSS   EEEEE\nBB  BB  AA  AA  SS      EE\nBBBBB   AAAAAA   SSSS   EEEE\nBB  BB  AA  AA      SS  EE\nBBBBB   AA  AA   SSSS   EEEEE" << endl << endl;
 		cout << "EEEEE    SSSS    CCCC    AAAA   PPPPP   EEEEE\nEE      SS      CC  CC  AA  AA  PP  PP  EE\nEEEE     SSSS   CC      AAAAAA  PPPPP   EEEE\nEE          SS  CC  CC  AA  AA  PP      EE\nEEEEE    SSSS    CCCC   AA  AA  PP      EEEEE" << endl << endl;
-		cout << "  11         2222           11\n1111        22  22        1111\n  11           22           11\n  11         22             11\n  11  **    222222  **      11" << endl << "Старт: ";
+		cout << "  11         2222           11\n1111        22  22        1111\n  11           22           11\n  11         22             11\n  11  **    222222  **      11" << endl << "Start: ";
 		cin >> f;
 		if (f != '0') {
 			cout << endl << "Welcome to my first test game\nBase_escape_1.2.1" << endl << "The game has a lot of secrets and easter eggs, but some require internet access" << endl << "Enter number: (1) to start; (2) to load save" << endl;
