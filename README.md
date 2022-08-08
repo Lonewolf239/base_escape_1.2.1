@@ -1,1 +1,5 @@
-# English localized version base_escape_1.2.1
+The final version of the base_escape for Win64 and Win32 (English version)
+v.1.2.1
+#Bugs fixed
+#Save system changed
+#Minor cosmetic changes
